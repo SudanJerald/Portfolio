@@ -6,7 +6,7 @@
           .find(".bar")
           .delay(i * 150)
           .animate(
-            {
+ {
               width:
                 $(this)
                   .parents()
